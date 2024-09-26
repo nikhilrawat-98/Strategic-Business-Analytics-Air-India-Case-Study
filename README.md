@@ -1,0 +1,2 @@
+# Strategic-Business-Analytics-Air-India-Case-Study
+This project analyzes Air India's operational, financial, &amp; customer service challenges, proposing data-driven solutions for its revival. Focusing on revenue optimization, operational restructuring &amp; customer service enhancements through strategic business analytics, the project aims to position Air India as a leader in the Indian aviation industry
